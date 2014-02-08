@@ -1,5 +1,6 @@
 <html>
 <?php
-print"ola mundo!"
+print "ola"
+print"mundo!"
 ?>
 </html>
