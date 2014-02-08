@@ -1,7 +1,7 @@
 <html>
 <?php
 print "ola"
-print"mundo!"
+print"mundo! -- novo"
 print""
 ?>
 </html>
